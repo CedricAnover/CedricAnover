@@ -30,6 +30,17 @@
 | C# WPF Frontend for MySQL Database | https://github.com/ca20110820/at3-ictprg431-ictprg432  |
 |          Wordle CLI Game           | https://github.com/ca20110820/ictprg302-coding-project |
 
+## Personal Projects
+
+|                     **Project**                     |                         **Links**                         |
+|:---------------------------------------------------:|:---------------------------------------------------------:|
+|               Email Template Manager                |  https://github.com/CedricAnover/email-template-manager   |
+|                   YFinance Gooey                    |      https://github.com/CedricAnover/yfinance-gooey       |
+|           MT5 Data Downloader with Gooey            |    https://github.com/CedricAnover/mt5-data-downloader    |
+| Trading Strategy Generator with Genetic Programming | https://github.com/CedricAnover/proof-of-concept-evoquant |
+
+Many more private and upcoming projects!
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/cedricanover" target="blank">
