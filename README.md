@@ -6,16 +6,19 @@
 
 - 🌱 I’m currently learning **Python, C#/.NET, JavaScript/HTML/CSS, Docker, and many more.**
 - 👨‍💻 All of my projects are available at [My Personal GitHub](https://github.com/CedricAnover?tab=repositories)
-     and [TAFE GitHub](https://github.com/ca20110820?tab=repositories).
+  and [TAFE GitHub](https://github.com/ca20110820?tab=repositories).
 - 📫 How to reach me at **[Contact](https://airtable.com/app683sXqKR1xlyb7/shrasJnswyZQdbV4j)**.
 
 ## TAFE 2024 Semester 1 Projects
 
-|                     **Project**                     |                        **Links**                         |
-|:---------------------------------------------------:|:--------------------------------------------------------:|
-|    Tic-Tac-Toe (Prototype for GitHub Classroom)     |         https://github.com/ca20110820/tictactoe          |
-| CoinGecko Mobile App with .NET 8 MAUI (In-progress) | https://github.com/ca20110820/CoinGeckoMAUI/tree/develop |
-|   Personal Portfolio Static Website (JS/HTML/CSS)   |                         Ongoing                          |
+|                     **Project**                     |                                         **Links**                                          |
+|:---------------------------------------------------:|:------------------------------------------------------------------------------------------:|
+|    Tic-Tac-Toe (Prototype for GitHub Classroom)     |                          https://github.com/ca20110820/tictactoe                           |
+| CoinGecko Mobile App with .NET 8 MAUI (In-progress) |                  https://github.com/ca20110820/CoinGeckoMAUI/tree/develop                  |
+|   Personal Portfolio Static Website (JS/HTML/CSS)   |                                          Ongoing                                           |
+|              Battleship Game (Python)               | (In-Review) https://github.com/ca20110820/python-beginner-projects/tree/feature/battleship |
+|              Expense Tracker (Python)               |                                          Ongoing                                           |
+|  Computer Algebra System with Newton API (Python)   |               (Pending)   https://github.com/CedricAnover/SymbolicCalculator               |
 
 ## TAFE 2023 Semester 2 Projects
 
