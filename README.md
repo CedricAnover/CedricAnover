@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cedric Anover</h1>
 <h3 align="center">
-    A passionate Mathematics Enthusiast and Programmer. 
-    Currently studying Certificate 4 in IT Programming.
+    A passionate Mathematics Enthusiast and Programmer.
 </h3>
 
 - 🌱 I’m currently learning **Python, C#/.NET, JavaScript/HTML/CSS, Docker, and many more.**
