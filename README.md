@@ -140,6 +140,7 @@ Many more private and upcoming projects!
 - **Course:** Certificate 4 in IT Programming
 - **Tools:**
     - `Python`, `C#/.NET`, `JavaScript/HTML/CSS`, `SQL`, `Git`, `Docker`
+    - .NET WPF, .NET MAUI, Node
 - **Experiences and Skills Acquired:**
     - Documentation with Markdown and Sphinx.
     - Automated Unit Testing.
@@ -152,6 +153,7 @@ Many more private and upcoming projects!
     - DevOps Workflow Automation with GitHub Actions.
     - Data Structures and Algorithms.
     - Design Patterns.
+    - Agile Project Management Method
 
 ### Curtin University (2013 - 2016)
 
