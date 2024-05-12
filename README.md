@@ -4,8 +4,10 @@
 </h3>
 
 - 🌱 I’m currently learning **Python, C#/.NET, JavaScript/HTML/CSS, Docker, and many more.**
-- 👨‍💻 All of my projects are available at [My Personal GitHub](https://github.com/CedricAnover?tab=repositories)
-  and [TAFE GitHub](https://github.com/ca20110820?tab=repositories).
+- 👨‍💻 All of my projects are available at:
+    - [Personal GitHub](https://github.com/CedricAnover?tab=repositories)
+    - [TAFE GitHub](https://github.com/ca20110820?tab=repositories).
+    - [Personal Docker Hub](https://hub.docker.com/u/cedricanover94)
 - 📫 How to reach me at **[Contact](https://airtable.com/app683sXqKR1xlyb7/shrasJnswyZQdbV4j)**.
 
 ## TAFE 2024 Semester 1 Projects
