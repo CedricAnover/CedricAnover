@@ -19,7 +19,7 @@
 |      Personal Portfolio Static Website (JS/HTML/CSS)      |                                                            Ongoing                                                            |
 | Website Technologies - Portfolio Assessment (JS/HTML/CSS) |                                   [Website Link](https://ca20110820.github.io/webtechpor/)                                    |
 |                 Battleship Game (Python)                  | [Contribution Link](https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Battleship/battleship_v2) |
-|                 Expense Tracker (Python)                  |                                                            Ongoing                                                            |
+|                 Expense Tracker (Python)                  |     [Contribution Link](https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Expense-Tracker)      |
 |     Computer Algebra System with Newton API (Python)      |                                (Pending)   https://github.com/CedricAnover/SymbolicCalculator                                 |
 
 ## TAFE 2023 Semester 2 Projects
