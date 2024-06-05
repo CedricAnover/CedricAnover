@@ -17,7 +17,7 @@
 |       Tic-Tac-Toe (Prototype for GitHub Classroom)        |                                            https://github.com/ca20110820/tictactoe                                            |
 |    CoinGecko Mobile App with .NET 8 MAUI                  |                                   https://github.com/ca20110820/CoinGeckoMAUI/tree/develop                                    |
 |      Personal Portfolio Static Website (JS/HTML/CSS)      |                            [Personal Website Project](https://ca20110820.github.io/web-tech-at3/)                             |
-| Website Technologies - Portfolio Assessment (JS/HTML/CSS) |                                   [Website Link](https://ca20110820.github.io/webtechpor/)                                    |
+|   Web Technologies - Portfolio Assessment (JS/HTML/CSS)   |                                   [Website Link](https://ca20110820.github.io/webtechpor/)                                    |
 |                 Battleship Game (Python)                  | [Contribution Link](https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Battleship/battleship_v2) |
 |                 Expense Tracker (Python)                  |     [Contribution Link](https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Expense-Tracker)      |
 |     Computer Algebra System with Newton API (Python)      |  [Contribution Link](https://github.com/ca20110820/python-beginner-projects/tree/computer-algebra/projects/computer-algebra)  |
