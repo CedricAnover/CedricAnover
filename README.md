@@ -8,7 +8,7 @@
     - [Personal GitHub](https://github.com/CedricAnover?tab=repositories)
     - [TAFE GitHub](https://github.com/ca20110820?tab=repositories).
     - [Personal Docker Hub](https://hub.docker.com/u/cedricanover94)
-- 📫 How to reach me at **[Contact](https://airtable.com/app683sXqKR1xlyb7/shrasJnswyZQdbV4j)**.
+- 📫 How to reach me at **[Contact](https://cedricanover.github.io/contact.html)**.
 
 ## TAFE 2024 Semester 1 Projects
 
