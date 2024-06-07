@@ -20,7 +20,7 @@
 |   Web Technologies - Portfolio Assessment (JS/HTML/CSS)   |                                   [Website Link](https://ca20110820.github.io/webtechpor/)                                    |
 |                 Battleship Game (Python)                  | [Contribution Link](https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Battleship/battleship_v2) |
 |                 Expense Tracker (Python)                  |     [Contribution Link](https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/Expense-Tracker)      |
-|     Computer Algebra System with Newton API (Python)      |  [Contribution Link](https://github.com/ca20110820/python-beginner-projects/tree/computer-algebra/projects/computer-algebra)  |
+|     Computer Algebra System with Newton API (Python)      |  [Contribution Link](https://github.com/Mrinank-Bhowmick/python-beginner-projects/tree/main/projects/computer-algebra)  |
 
 ## TAFE 2023 Semester 2 Projects
 
