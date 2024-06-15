@@ -140,7 +140,7 @@ Many more private and upcoming projects!
 
 ## Education
 
-### North Metropolitan TAFE (2023 - ongoing)
+### North Metropolitan TAFE (2023 - 2024)
 
 - **Course:** Certificate 4 in IT Programming
 - **Tools:**
