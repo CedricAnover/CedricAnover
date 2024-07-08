@@ -3,7 +3,7 @@
     A passionate Mathematics Enthusiast and Programmer.
 </h3>
 
-- 🌱 I’m currently learning **Python, C#/.NET, JavaScript/HTML/CSS, Docker, and many more.**
+- 🌱 **Python, C#/.NET, JavaScript/HTML/CSS, Docker, and many more.**
 - 👨‍💻 All of my projects are available at:
     - [Personal GitHub](https://github.com/CedricAnover?tab=repositories)
     - [TAFE GitHub](https://github.com/ca20110820?tab=repositories).
