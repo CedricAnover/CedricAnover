@@ -38,6 +38,7 @@
 
 |                     **Project**                     |                         **Links**                         |
 |:---------------------------------------------------:|:---------------------------------------------------------:|
+|                        ccna                         |            https://github.com/ca20110820/ccna             |
 |               Email Template Manager                |  https://github.com/CedricAnover/email-template-manager   |
 |                   YFinance Gooey                    |      https://github.com/CedricAnover/yfinance-gooey       |
 |           MT5 Data Downloader with Gooey            |    https://github.com/CedricAnover/mt5-data-downloader    |
