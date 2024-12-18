@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cedric Anover</h1>
+<h1 align="center">Hi 👋, I'm Cedric</h1>
 <h3 align="center">
     A passionate Mathematics Enthusiast and Programmer.
 </h3>
@@ -11,6 +11,17 @@
 - 📫 How to reach me at:
     - **[Contact](https://cedricanover.github.io/contact.html)**
     - **[cedricanover.github.io](https://cedricanover.github.io/)**
+
+## Projects
+
+|                     **Project**                     |                         **Links**                         |
+|:---------------------------------------------------:|:---------------------------------------------------------:|
+|                        marsh                        |           https://github.com/CedricAnover/marsh           |
+|                        ccna                         |            https://github.com/ca20110820/ccna             |
+|               Email Template Manager                |  https://github.com/CedricAnover/email-template-manager   |
+|                   YFinance Gooey                    |      https://github.com/CedricAnover/yfinance-gooey       |
+|           MT5 Data Downloader with Gooey            |    https://github.com/CedricAnover/mt5-data-downloader    |
+| Trading Strategy Generator with Genetic Programming | https://github.com/CedricAnover/proof-of-concept-evoquant |
 
 ## TAFE 2024 Semester 1 Projects
 
@@ -33,16 +44,6 @@
 |  Recruitment Tracker Desktop App   | https://github.com/ca20110820/at2-ictprg440-ictprg433  |
 | C# WPF Frontend for MySQL Database | https://github.com/ca20110820/at3-ictprg431-ictprg432  |
 |          Wordle CLI Game           | https://github.com/ca20110820/ictprg302-coding-project |
-
-## Personal Projects
-
-|                     **Project**                     |                         **Links**                         |
-|:---------------------------------------------------:|:---------------------------------------------------------:|
-|                        ccna                         |            https://github.com/ca20110820/ccna             |
-|               Email Template Manager                |  https://github.com/CedricAnover/email-template-manager   |
-|                   YFinance Gooey                    |      https://github.com/CedricAnover/yfinance-gooey       |
-|           MT5 Data Downloader with Gooey            |    https://github.com/CedricAnover/mt5-data-downloader    |
-| Trading Strategy Generator with Genetic Programming | https://github.com/CedricAnover/proof-of-concept-evoquant |
 
 Many more private and upcoming projects!
 
